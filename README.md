@@ -1,3 +1,10 @@
+Problem Statements
+1.	Analyze historical sales and profit and territory. 
+2.	Identify bestselling products and attributed customers and regions. 
+3.	Forecast revenue for the next 7 periods. 
+4.	Execute pricing scenario analysis to understand increase in product cost.
+
+
 # Adventure Works Sales Analysis
 Using the Adventure Works Database, Analysis of Sales from 2015-2017 were performed in "AdventureWorks_Sales_Analysis". Following functionalities available:
 
